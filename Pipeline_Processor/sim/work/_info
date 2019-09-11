@@ -1,0 +1,344 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/users/ugrad/2016/fall/mdhindsa/EECS112l/lab-2/sim
+vadder
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1521870201
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+IzheH9a]CBJBVQBWe7M>WB3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+Z3 d/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/sim
+w1521789638
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/adder.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/adder.sv
+L0 3
+Z4 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z5 !s108 1521870201.000000
+Z6 !s107 /users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/forwardingunit.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/RISC_V.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/Datapath.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/Controller.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/RegFile.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/alu.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/ALUController.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/instructionmemory.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/datamemory.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/mux2.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/imm_Gen.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/flopr.sv|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/adder.sv|
+Z7 !s90 -quiet|-64|-sv|-f|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/rtl.cfg|
+!i113 0
+Z8 o-quiet -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu
+R0
+R1
+!i10b 1
+!s100 JWA`f?n]AD7`f_[JiH[Lm1
+I5m];MCXLC8P3_n<?J^e082
+R2
+!s105 alu_sv_unit
+S1
+R3
+w1521856275
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/alu.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/alu.sv
+Z9 L0 22
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vALUController
+R0
+R1
+!i10b 1
+!s100 52nS5:;AHJ`UO8^`VdbH=2
+I;GSEPR@5ZZNQN^Ubd]DzJ1
+R2
+!s105 ALUController_sv_unit
+S1
+R3
+w1521856254
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/ALUController.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/ALUController.sv
+Z10 L0 23
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@a@l@u@controller
+vController
+R0
+R1
+!i10b 1
+!s100 Mm@ej9jBz?[<YHz^RT<=_2
+Ia:DX><hf:;d^f?C`<egWB3
+R2
+!s105 Controller_sv_unit
+S1
+R3
+Z11 w1521789639
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/Controller.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/Controller.sv
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@controller
+vdatamemory
+R0
+R1
+!i10b 1
+!s100 jnZAR?6OKKaNBcUbK:ocM3
+IKZ<S?>kdA<:8DnFKBaDcl2
+R2
+!s105 datamemory_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/datamemory.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/datamemory.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vDatapath
+R0
+R1
+!i10b 1
+!s100 67Pl`8dak4U?[O>f23i6?0
+I:JLc[1a:5l^[OOed0hc7l3
+R2
+!s105 Datapath_sv_unit
+S1
+R3
+w1521863952
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/Datapath.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/Datapath.sv
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@datapath
+vflopr
+R0
+R1
+!i10b 1
+!s100 B6BS^>`X=WIeQVmG9i5VI0
+ISXV=_H[bW2:FI2P1li:873
+R2
+!s105 flopr_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/flopr.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/flopr.sv
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vforwardingunit
+R0
+R1
+!i10b 1
+!s100 Y?`lmZnbXQ@f;6fG18obD2
+IH0bCC;DD3hW:DfizETJF12
+R2
+!s105 forwardingunit_sv_unit
+S1
+R3
+w1521856611
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/forwardingunit.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/forwardingunit.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vimm_Gen
+R0
+R1
+!i10b 1
+!s100 8ei3`1?X3]d28[_zRSeY61
+IKlAA_MSEC?<4W;1=JTn`_3
+R2
+!s105 imm_Gen_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/imm_Gen.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/imm_Gen.sv
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+nimm_@gen
+vinstructionmemory
+R0
+R1
+!i10b 1
+!s100 WSYJR;3H9L4eKgX8hQmd31
+IJ2QgddGgm4d>SigNhcP>d3
+R2
+!s105 instructionmemory_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/instructionmemory.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/instructionmemory.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vmux2
+R0
+R1
+!i10b 1
+!s100 @X6>V^M3YMfab:XdY67SE1
+IPj7UmldX0`OFSdCL0B?eO3
+R2
+!s105 mux2_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/mux2.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/mux2.sv
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vRegFile
+R0
+R1
+!i10b 1
+!s100 k79cP9kXd1=PiKKIL>2Z@0
+I3O;^1HG:@z3YTb0[Hz<PN2
+R2
+!s105 RegFile_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/RegFile.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/RegFile.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@reg@file
+vriscv
+R0
+R1
+!i10b 1
+!s100 lQkWP`81^`PZJ3fKN]RgZ2
+I18z9Pa8gc9_8H_VlnMgK63
+R2
+!s105 RISC_V_sv_unit
+S1
+R3
+w1521790291
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/RISC_V.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/design/RISC_V.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vtb_top
+R0
+R1
+!i10b 1
+!s100 Ac4ganCOBnoOOlMGTCO4;3
+Ic^K8egoAMEb=gRXOobf360
+R2
+!s105 tb_top_sv_unit
+S1
+R3
+w1521790406
+8/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/verif/tb_top.sv
+F/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/verif/tb_top.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 /users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/verif/tb_top.sv|
+!s90 -quiet|-64|-sv|-f|/users/ugrad/2016/fall/mdhindsa/Pipeline/lab-2/verif/tb.cfg|-work|work|
+!i113 0
+o-quiet -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Ttb_top_opt
+R1
+V]i3IZP>Ae9zjGbkT>T=mc1
+04 6 4 work tb_top fast 0
+o-quiet +acc -work work
+ntb_top_opt
+OL;O;10.4c;61
